@@ -40,11 +40,11 @@
 
 7. 기술 스택->은별
 
-   ![](C:\daily-101-docs\img\d101기술스택.JPG)
+   ![](https://github.com/daily-101/daily-101-docs/blob/main/img/d101%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.JPG)
 
 8. 서비스 흐름도->아키텍쳐 ->은별 :heavy_check_mark:
 
-   ![](C:\Users\star\Desktop\d101\최종문서\d101 아키텍처.png)
+   ![](https://github.com/daily-101/daily-101-docs/blob/main/img/d101_Architecture.png)
 
 
 데일리 101 또는 뚝딱(dkdk)/도르마무/4season 팀 계정 만들기
