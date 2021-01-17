@@ -1,16 +1,16 @@
 # ✈️ daily101
 
-[참조](https://github.com/boostcamp-2020/Project16-B-Account-Book)
+## 뚝별언니
 
 ![아이콘]()
 
-![Generic badge](https://img.shields.io/badge/react-^16.14.0-brightgreen) ![Generic badge](https://img.shields.io/badge/mobx-^5.15.5-green.svg) ![Generic badge](https://img.shields.io/badge/springframework-2.1.17-yellowgreen.svg)
+![Generic badge](https://img.shields.io/badge/react-^16.14.0-brightgreen) ![Generic badge](https://img.shields.io/badge/mobx-^5.15.5-green.svg) ![Generic badge](https://img.shields.io/badge/springboot-2.1.17-yellowgreen.svg)
 
 ![Generic badge](https://img.shields.io/badge/maria-8.0.13-yellow.svg) ![Generic badge](https://img.shields.io/badge/react_native-39.0.4-orange.svg) ![Generic badge](https://img.shields.io/badge/styled_components-5.2.1-red.svg)
 
 
 
-## ⚡️ 팀원소개
+## ⚡️ 팀원소개<- 이모지로 바꾸기
 
 ![](./img/d101_팀원소개.png) 
 
@@ -24,11 +24,11 @@
 
 
 
-# 시연 영상
+# 시연 영상<-daily101계정으로 업로드(수빈쓰)
 
 
 
-## :rocket:프로젝트 소개(임근우, 박미지)
+## :rocket:프로젝트 소개(<-은별언니 수정)
 
 ##### 기억하고 싶은 나의 생활 정보, 쉽게 관리할 순 없을까? 
 
@@ -68,7 +68,7 @@
   - 원하는 표지를 선택할 수 있습니다.
   
 
-## 🎯 기술 특장점
+## 🎯 기술 특장점<- 앱/웹 기반 기술 쓰기(앱: 김수빈, 웹: 박미지, 임근우)
 
 ### :memo: 자동기록
 
