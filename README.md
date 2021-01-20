@@ -19,7 +19,7 @@
 
 # 배포 주소
 
-**https://github.com/daily-101**
+**[daily101](https://play.google.com/store/apps/details?id=com.daily101)** - 플레이스토어(~~서버 반납~~)
 
 
 
