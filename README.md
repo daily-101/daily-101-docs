@@ -127,7 +127,9 @@
 - 
 
 
+ ### :whale:Docker 배포
 
+- Amazon EC2를 이용해 docker를 설치하고 docker 컨테이너에 mariadb와 각각의 서버들을 설치해 언제 어디서든 서비스가 동작할 수 있게 설정했습니다.
 
 
 
