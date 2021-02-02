@@ -1,8 +1,6 @@
-# ✈️ daily101
+# <img src="C:\daily-101-docs\img\d101_logo.png" alt="아이콘" style="zoom:60%;"  /> daily101
 
-## 뚝별언니
 
-![아이콘]()
 
 ![Generic badge](https://img.shields.io/badge/react-^16.14.0-brightgreen)![Generic badge](https://img.shields.io/badge/mobx-^5.15.5-green.svg)![Generic badge](https://img.shields.io/badge/springboot-2.1.17-yellowgreen.svg)![Generic badge](https://img.shields.io/badge/maria-8.0.13-yellow.svg)![Generic badge](https://img.shields.io/badge/react_native-39.0.4-orange.svg)![Generic badge](https://img.shields.io/badge/styled_components-5.2.1-red.svg)
 
