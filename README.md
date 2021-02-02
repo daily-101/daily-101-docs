@@ -161,7 +161,7 @@
 
 ![](https://github.com/daily-101/daily-101-docs/blob/main/img/DESIGN.png)
 
-​						:point_right: update 예정
+​						:point_right: design 부분 update 예정
 
 
 
