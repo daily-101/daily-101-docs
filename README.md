@@ -157,5 +157,15 @@
 
 
 
+## :art: ​Design 
+
+![](C:\daily-101-docs\img\DESIGN.png)
+
+​						:point_right: update 예정
+
+
+
+
+
 
 데일리 101 또는 뚝딱(dkdk)/도르마무/4season 팀 계정 만들기
