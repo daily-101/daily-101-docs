@@ -1,4 +1,4 @@
-# <img src="C:\daily-101-docs\img\d101_logo.png" alt="아이콘" style="zoom:60%;"  /> daily101
+# <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/d101_logo.png" alt="아이콘" style="zoom:60%;"  /> daily101
 
 
 
