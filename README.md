@@ -159,7 +159,7 @@
 
 ## :art: ​Design 
 
-![](C:\daily-101-docs\img\DESIGN.png)
+![](https://github.com/daily-101/daily-101-docs/blob/main/img/DESIGN.png)
 
 ​						:point_right: update 예정
 
