@@ -11,7 +11,16 @@
 ## ⚡️ 팀원소개<- 이모지로 바꾸기
 
 <!-- ![](./img/d101_팀원소개.png) -->
-다시 설정 필요!| 임근우  | 박미지  | 김수빈  | 이은별  || ---- | ---- | ---- | | 값1   | 값2   | 값3   |<img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" />  |
+다시 설정 필요! 각자 사진 넣으셍~~
+
+
+
+|                            임근우                            |                            박미지                            |                            김수빈                            |                            이은별                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> |
+|              [깃](https://github.com/keunwooo)               |              [깃](https://github.com/mijip0320)              |             [깃](https://github.com/souvenir718)             |      [:star:lebcoco:heart:](https://github.com/lebcoco)      |
+
+
 
 
 
