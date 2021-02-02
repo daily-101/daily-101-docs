@@ -17,7 +17,7 @@
 
 |                            임근우                            |                            박미지                            |                            김수빈                            |                            이은별                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> |
+| <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="C:\daily-101-docs\img\imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" /> |
 |              [깃](https://github.com/keunwooo)               |              [깃](https://github.com/mijip0320)              |             [깃](https://github.com/souvenir718)             |      [:star:lebcoco:heart:](https://github.com/lebcoco)      |
 
 
