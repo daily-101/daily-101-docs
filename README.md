@@ -10,13 +10,14 @@
 
 <!-- ![](./img/d101_팀원소개.png) -->
 다시 설정 필요! 각자 사진 넣으셍~~
+## 깃 주소는 연동 해놓음
 
 
 
 |                            임근우                            |                            박미지                            |                            김수빈                            |                            이은별                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> |
-|              [깃](https://github.com/keunwooo)               |              [깃](https://github.com/mijip0320)              |             [깃](https://github.com/souvenir718)             |      [:star:lebcoco:heart:](https://github.com/lebcoco)      |
+|              [근우 깃](https://github.com/keunwooo)               |              [미지 깃](https://github.com/mijip0320)              |             [수빈 깃](https://github.com/souvenir718)             |      [:star:lebcoco:heart:](https://github.com/lebcoco)      |
 
 
 
