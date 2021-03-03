@@ -4,33 +4,27 @@
 
 ![Generic badge](https://img.shields.io/badge/react-^16.14.0-brightgreen)![Generic badge](https://img.shields.io/badge/mobx-^5.15.5-green.svg)![Generic badge](https://img.shields.io/badge/springboot-2.1.17-yellowgreen.svg)![Generic badge](https://img.shields.io/badge/maria-8.0.13-yellow.svg)![Generic badge](https://img.shields.io/badge/react_native-39.0.4-orange.svg)![Generic badge](https://img.shields.io/badge/styled_components-5.2.1-red.svg)
 
-
+<br/>
 
 ## ⚡️ 팀원소개<- 이모지로 바꾸기
-
-<!-- ![](./img/d101_팀원소개.png) -->
-다시 설정 필요! 각자 사진 넣으셍~~
-## 깃 주소는 연동 해놓음
-
-
 
 |                            임근우                            |                            박미지                            |                            김수빈                            |                            이은별                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> | <img src="https://github.com/daily-101/daily-101-docs/blob/main/img/imoji_byeol.png" style="zoom:33%;" /> |
 |              [근우 깃](https://github.com/keunwooo)               |              [미지 깃](https://github.com/mijip0320)              |             [수빈 깃](https://github.com/souvenir718)             |      [:star:lebcoco:heart:](https://github.com/lebcoco)      |
 
-
+<br/>
 
 
 # 시연 영상
 
 ### [🎬나의 하루를 daily101와 함께 사용한다면?](https://youtu.be/d-eDxZhvw5U)
 
-
+<br/>
 
 ### [🎬daily101 웹 서비스](https://youtu.be/qDHZRO_ShHM)
 
-
+<br/>
 
 ## :rocket: 프로젝트 소개
 
@@ -44,7 +38,7 @@
 
 개인의 하루 생활정보를 타임라인으로 쉽게 확인 할 수 있습니다.
 
-
+<br/>
 
 #### :watch: 타임라인
 
@@ -52,7 +46,7 @@
 - **타임라인**에서 오늘 나의 하루 생활정보를 **한 눈에 확인**할 수 있습니다.
 - **시간순**으로 나열된 형태로 하루 일정과 기록 데이터를 파악하기 수월합니다.
 
-
+<br/>
 
 
 #### :running: Life Style 관리
@@ -63,7 +57,7 @@
 
 - 소비: 소비기록을 통해 하루동안 지출내역을 확인하고, 분야별 소비정도를 파악할 수 있습니다.
 
-
+<br/>
 
 #### :fax: 출력서비스
 
@@ -71,7 +65,7 @@
 - 기념 목적의 앨범을 출력하여 추억할 수 있는 **나만의 기록물**을 만들 수 있습니다.
   - 사용자가 직접 edit하는 기능을 통해 **cusomizing**할 수 있습니다
 
-
+<br/>
 
 ## 🏳‍🌈 화면 구성
 
@@ -79,11 +73,9 @@
 
 ![](./img/tab_app.png) 
 
-
+<br/>
 
 ## 🎯 기술 특장점<- 앱/웹 기반 기술 쓰기(앱: 김수빈, 웹: 박미지, 임근우)
-
-
 
 ### :iphone: 프론트엔드 - Mobile App
 
@@ -91,7 +83,7 @@
 
   - 사용자에 대한 정보를 조회할 때 생성된 ID값으로 조회가 가능하게 됩니다.
 
-
+<br/>
 
 
 - **타임라인**
@@ -102,7 +94,7 @@
     - 현재 사용자의 위치를 저장하여 **timeline** 서버로 데이터를 전송했습니다. 
   - **timeline** 서버로부터 받아온 정보를 날짜별로 표시했습니다.
 
-
+<br/>
 
 
 - **활동량**
@@ -110,7 +102,7 @@
   - **activity** 서버로부터 받아온 정보를 날짜별로 표시했습니다.
     - 시간별로 소비 칼로리와 활동시간, 이동 거리를 표시했습니다.
 
-
+<br/>
 
 
 - **소비**
@@ -121,16 +113,15 @@
     - 날짜별 지출내역에 대한 카테고리를 나눠서 그래프( **react-chartjs-2** )로 표시했습니다.
       - 교육, 패션/미용, 문화생활, 식비, 기타
 
-
+<br/>
 
 
 - **식단**
 
   - 날짜별 먹은 음식 사진을 **Firebase**에 저장하고 불러옵니다.
+- 하루 총 섭취 칼로리와 먹은 음식 사진을 칼로리와 함께 표시했습니다.
 
-  - 하루 총 섭취 칼로리와 먹은 음식 사진을 칼로리와 함께 표시했습니다.
-
-    
+<br/>
 
 ###   :blue_book: 프론트엔드 - Web
 
@@ -138,13 +129,13 @@
   - 사용자가 로그인 할 때 고유한 ID값과 토큰값을 받게 됩니다.
   - 추후 세션 유지하거나 해당 사용자에 대한 정보를 조회할 때 생성된 ID값으로 조회가 가능하게 됩니다.
 
-
+<br/>
 
 - **Kakao Map API**를 사용해 사용자의 위치 표시 및 이동 거리를 지도 위에 표시했습니다.
   - 백엔드로 받은 정보를 지도 위에 표시해 사용자가 한눈에 확인 가능할 수 있도록 설정했습니다.
 - 외부 그래프 라이브러리인 **react-chartjs-2**를 이용해 사용자의 하루 활동량과 소비 내역을 그래프로 표현했습니다.
 
-
+<br/>
 
 ###   :green_book: 백엔드 - Spring boot
 
@@ -152,37 +143,30 @@
 - **googleLogin**에서는 프론트로부터 입력받은 로그인 정보(ID, 비밀번호, 이름, 이메일 등등)를 Controller, DTO, Entity, Repository, 그리고 Service를 이용해 MariaDB에 저장 될 수 있게끔 설정했습니다.
 - timeline에선 입력받은 날짜에 대한 사용자 정보를 조회/추가하고 사용자가 머물렀던 장소에 대한 좌표를 받아 거리 계산을 하여 총 이동거리를 계산해 제공합니다.
 
-
+<br/>
 
 
  ### :whale: Docker 배포
 
 - Amazon EC2를 이용해 docker를 설치하고 docker 컨테이너에 mariadb와 각각의 서버들을 설치해 언제 어디서든 서비스가 동작할 수 있게 설정했습니다.
 
-
+<br/>
 
 ## 🔗 기술스택
 
 ![](./img/d101_기술스택.JPG) 
 
-
+<br/>
 
 
 ## 🔎 서비스 흐름도
 
 ![](./img/d101_Architecture.png)
 
-
+<br/>
 
 ## :art: ​Design 
 
 ![](https://github.com/daily-101/daily-101-docs/blob/main/img/DESIGN.png)
 
 ​						:point_right: design 부분 update 예정
-
-
-
-
-
-
-데일리 101 또는 뚝딱(dkdk)/도르마무/4season 팀 계정 만들기
